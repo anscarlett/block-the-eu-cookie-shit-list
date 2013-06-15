@@ -10,6 +10,7 @@
 ###cookieMonsterWrapper
 ###cookiePolicyPopup
 ###fp_cookieMessageContainer
+###mktg_Cookie_Wrap
 ###WP-cookie-info
 ##.cookieTooltip
 ##div[class^="cookie-alert"]
@@ -37,7 +38,6 @@ concertolive.co.uk##.divCookieWarning
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script
-cpc.farnell.com###mktg_Cookie_Wrap
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
